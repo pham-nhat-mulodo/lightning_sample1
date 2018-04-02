@@ -23,6 +23,7 @@ Containing a simple list of open cases being displayed and navigation around.
   + LE and SF1 only
   + Only works with 1 single record
 * Lightning Action as a replacement for Custom Button (To be covered in the next sample)
+implements="force:lightningQuickAction"
 
 ## Known Issues:
 * Data display buggy in Desktop version. 
