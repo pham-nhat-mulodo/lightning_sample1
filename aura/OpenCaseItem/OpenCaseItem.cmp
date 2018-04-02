@@ -1,0 +1,5 @@
+<aura:component >
+    <div onclick="{!c.goToCaseDetails}">
+        <force:recordView recordId="{!v.Id}" type="MINI"/>
+    </div>
+</aura:component>
